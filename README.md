@@ -1,1 +1,2 @@
-# Flashcard-App /n This is a Flashcard Application to learn French.  
+# Flashcard-App
+This is a Flashcard Application to learn French.  
